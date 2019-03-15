@@ -1,0 +1,9 @@
+{
+  "name": "bunshun_train_ads_bot",
+  "description": "Tweet bunshun train ads",
+  "memory": 512,
+  "timeout": 5,
+  "runtime": "nodejs6.10",
+  "role": "arn:aws:iam::110591632239:role/bunshun_train_ads_bot_lambda_function",
+  "environment": {}
+}
